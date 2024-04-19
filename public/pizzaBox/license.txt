@@ -1,0 +1,8 @@
+Model Information:
+* title:	Half open pizza box
+* source:	https://sketchfab.com/3d-models/half-open-pizza-box-6ce3662b1a614a768ab7e1f140cbcb97
+* author:	FrancescoMilanese (https://sketchfab.com/FrancescoMilanese)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
